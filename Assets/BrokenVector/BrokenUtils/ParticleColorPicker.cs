@@ -15,7 +15,7 @@ namespace BrokenVector.BrokenUtils
         public float MaxRayDistance = 5f;
         public LayerMask Mask;
 
-        private ParticleSystem particleSystem;
+        private new ParticleSystem particleSystem;
 
         void Start()
         {
@@ -39,9 +39,6 @@ namespace BrokenVector.BrokenUtils
 
             Texture2D tex = (Texture2D)renderer.material.mainTexture;
             Color color = tex.GetPixelBilinear(result.textureCoord.IntX(), result.textureCoord.IntY());
-            if (color == null)
-                return;
-
             particleSystem.startColor = color;
         }
     }

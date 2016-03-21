@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
+using UnityEngine.SceneManagement;
 
 namespace BrokenVector.BrokenUtils
 {
@@ -15,10 +16,7 @@ namespace BrokenVector.BrokenUtils
 
         void Start()
         {
-            if (!Additive)
-                Application.LoadLevel(Name);
-            else
-                Application.LoadLevelAdditive(Name);
+            SceneManager.LoadScene(Name, Additive ? LoadSceneMode.Additive : LoadSceneMode.Single);
         }
 
 	}
