@@ -1,8 +1,10 @@
 <asset>
 	<name>Broken Utils</name>
 	<author>Broken Vector</author>
-	<version>1.0.1</version>
-	<notes>added asset-updater support</notes>
-	<package-uri>https://github.com/BrokenVector/BrokenUtils/releases/download/1.0.1/BrokenUtils.unitypackage</package-uri>
+	<version>1.0.2</version>
+	<notes>* Removed ParticleColorPicker
+	* Added EditorGUINavigationBar
+	</notes>
+	<package-uri>https://github.com/BrokenVector/BrokenUtils/releases/download/1.0.2/BrokenUtils.unitypackage</package-uri>
 	<version-uri>https://raw.githubusercontent.com/BrokenVector/BrokenUtils/master/Assets/BrokenVector/BrokenUtils/AssetVersion.xml</version-uri>
 </asset>
