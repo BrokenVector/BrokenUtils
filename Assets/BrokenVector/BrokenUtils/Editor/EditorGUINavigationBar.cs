@@ -2,7 +2,7 @@
 using System.Collections;
 using UnityEditor;
 
-namespace BrokenVector.BrokenUtils
+namespace BrokenVector.BrokenUtils.Editor
 {
     /// <summary>
     /// Navigation bar to switch between different elements.

@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-namespace BrokenVector.BrokenUtils
+namespace BrokenVector.BrokenUtils.Shortcuts
 {
     /// <summary>
     /// Destroys the GameObject after a certain time (in seconds)

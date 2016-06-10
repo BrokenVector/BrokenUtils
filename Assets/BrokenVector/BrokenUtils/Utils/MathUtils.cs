@@ -2,7 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 
-namespace BrokenVector.BrokenUtils
+namespace BrokenVector.BrokenUtils.Utils
 {
 	public static class MathUtils 
 	{

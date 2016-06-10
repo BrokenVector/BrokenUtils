@@ -1,9 +1,9 @@
 <asset>
 	<name>Broken Utils</name>
 	<author>Broken Vector</author>
-	<version>1.0.3</version>
-	<notes>* Fixed bug which prevented building
+	<version>1.1</version>
+	<notes>* Added ReadOnlyAttribute
 	</notes>
-	<package-uri>https://github.com/BrokenVector/BrokenUtils/releases/download/1.0.3/BrokenUtils.unitypackage</package-uri>
+	<package-uri>https://github.com/BrokenVector/BrokenUtils/releases/download/1.1/BrokenUtils.unitypackage</package-uri>
 	<version-uri>https://raw.githubusercontent.com/BrokenVector/BrokenUtils/master/Assets/BrokenVector/BrokenUtils/AssetVersion.xml</version-uri>
 </asset>

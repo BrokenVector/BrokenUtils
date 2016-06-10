@@ -3,7 +3,7 @@ using System.Collections;
 using UnityEngine.UI;
 using UnityEngine.EventSystems;
 
-namespace BrokenVector.BrokenUtils
+namespace BrokenVector.BrokenUtils.UI
 {
     /// <summary>
     /// Navigation between ui elements via 'tab'-key.

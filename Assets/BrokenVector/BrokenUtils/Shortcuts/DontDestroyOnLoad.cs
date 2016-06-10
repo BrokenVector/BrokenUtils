@@ -2,7 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 
-namespace BrokenVector.BrokenUtils
+namespace BrokenVector.BrokenUtils.Shortcuts
 {
     /// <summary>
     /// Prevent that this GameObject, gets destroyed when loading a new scene.

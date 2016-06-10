@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine.SceneManagement;
 
-namespace BrokenVector.BrokenUtils
+namespace BrokenVector.BrokenUtils.Shortcuts
 {
     /// <summary>
     /// Loads an scene when the current scene is started.
