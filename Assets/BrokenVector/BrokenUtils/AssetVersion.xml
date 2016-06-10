@@ -2,8 +2,7 @@
 	<name>Broken Utils</name>
 	<author>Broken Vector</author>
 	<version>1.1</version>
-	<notes>
-    * changed namespaces
+	<notes>* changed namespaces
     * added ReadOnlyAttribute
     * added EditorGUIUtils
     * added QuaternionUtils
