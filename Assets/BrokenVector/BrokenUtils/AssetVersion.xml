@@ -1,7 +1,7 @@
 <asset>
 	<name>Broken Utils</name>
 	<author>Broken Vector</author>
-	<version>1.1</version>
+	<version>1.1.0</version>
 	<notes>* changed namespaces
     * added ReadOnlyAttribute
     * added EditorGUIUtils
