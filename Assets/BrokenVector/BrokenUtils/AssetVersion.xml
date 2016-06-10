@@ -2,7 +2,7 @@
 	<name>Broken Utils</name>
 	<author>Broken Vector</author>
 	<version>1.0.3</version>
-	<notes>* Fixed gug which prevented building
+	<notes>* Fixed bug which prevented building
 	</notes>
 	<package-uri>https://github.com/BrokenVector/BrokenUtils/releases/download/1.0.3/BrokenUtils.unitypackage</package-uri>
 	<version-uri>https://raw.githubusercontent.com/BrokenVector/BrokenUtils/master/Assets/BrokenVector/BrokenUtils/AssetVersion.xml</version-uri>
